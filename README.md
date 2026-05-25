@@ -1,1 +1,2 @@
-# dssa_data_gathering_warehousing
+# DSSA 5102 - Data Gathering & Warehousing
+### Course content/files
